@@ -1,4 +1,11 @@
-### Hi there 👋
+### I'm a senior developer when you need one.
+
+I'm an independent Ruby (on Rails) developer based just outside London, UK with over 10 years experience.
+
+I help people make great web applications that make my clients more money and their businesses run more efficiently.
+
+I've worked on a wide range of projects, small and large. My clients include bootstrap startups, VC backed startups through to creative agencies.
+
 
 <!--
 **simonreed/simonreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
