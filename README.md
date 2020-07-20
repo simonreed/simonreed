@@ -1,11 +1,10 @@
-### I'm a senior developer when you need one.
+### Get a Senior Ruby Developer as and when you need me.
 
-I'm an independent Ruby (on Rails) developer based just outside London, UK with over 10 years experience.
+I'm a Freelance Rails developer who makes great web applications that make my clients more money and enables their businesses run more efficiently.</p>
 
-I help people make great web applications that make my clients more money and their businesses run more efficiently.
-
-I've worked on a wide range of projects, small and large. My clients include bootstrap startups, VC backed startups through to creative agencies.
-
+* Experienced
+* Flexible
+* Reliable
 
 <!--
 **simonreed/simonreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
