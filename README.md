@@ -1,5 +1,5 @@
-### Get a Senior Ruby Developer as and when you need me. 👨‍💻
-I'm a Freelance Rails developer who makes great web applications that make my clients more money and enables their businesses run more efficiently.</p>
+### Get a Senior Ruby and React Developer as and when you need me. 👨‍💻
+I'm a Freelance developer who makes great web applications, using Rails and React, that make my clients more money and enables their businesses run more efficiently.</p>
 
 * Experienced
 * Flexible
