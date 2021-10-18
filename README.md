@@ -1,9 +1,11 @@
 ### Get a Senior Ruby and React Developer as and when you need me. 👨‍💻
-I'm a Freelance developer who makes great web applications, using Rails and React, that make my clients more money and enables their businesses run more efficiently.</p>
+I'm a Freelance developer who makes great web applications, using Rails and React, that make my clients more money and enables their businesses run more efficiently.
 
-* Experienced
-* Flexible
-* Reliable
+* Experienced ✅
+* Flexible ✅
+* Reliable ✅
+
+You can find out more at [simonreed.co](https://simonreed.co) or view my [CV](https://github.com/simonreed/simonreed/blob/master/CV.md).
 
 <!--
 **simonreed/simonreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
